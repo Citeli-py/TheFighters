@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^33.0.2"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.4",
+    "sqlite3": "^5.1.7"
   }
 }
